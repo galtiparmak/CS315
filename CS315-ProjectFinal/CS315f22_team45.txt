@@ -1,0 +1,36 @@
+a;
+a = 5;
+a = 4 + 5;
+a = b;
+b = a * c;
+b = a + c;
+while(a != 10) { b = c - d; }
+for (a = 1; a <= 10; a = a + 1;) { b = b - c; }
+if (a == 5 && b == 4) { ->c = a * b; } else { ->c = a / b; }
+readSensor(sensor5);
+// Comment
+sendToURL( a, b, c ) { return d; }
+readSensor(sensor5);
+print (a_ID);
+if (a != 5 || a == c) { a_max = 100000; }
+b = a + 10;
+b = a * c;
+b = func(a, b, c, d);
+while(a != 10) { return 5; }
+for (a = 1; a <= 325123; a = a + b;) { b = b - c; }
+readTime();
+connectToURL("www.youtube.com");
+sendToURL( "www.youtube.com", 2);
+x = func1(x, y);
+readTime();
+print("HELLO WORLD!");
+a = 2 * a;
+while ( a >= b ) { b = b + 2; a = a - 1;}
+if ( x != y ) { ->readSensor(sensor2); } else { ->readSensor(sensor1); }
+function func1( d, c, e, f) {return "HELLO WORLD!";}
+for ( i = 0; i < 100; i = i + 5;) { print(i);}
+receiveFromURL("www.youtube.com");
+f;
+f = 5 + 3 + 5 + 2;
+b = a * b * c * e + f - a - b + 2;
+while(a != 10) { b = (a * b) + 10; }
